@@ -15,7 +15,7 @@ npm install -g yarn
 ```
 3. Navigate into project root and install dependencies.
 ```
-cd rebar && npm install
+cd RebarCalculator-main && npm install
 ```
 4. Run dev server.
 ```
